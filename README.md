@@ -1,1 +1,1 @@
-# js-aula
+Repositório criado para aula de javascript 1°semestre da faculdade
